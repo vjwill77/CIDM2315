@@ -11,3 +11,5 @@ Upload the Homework4.cs file
 Upload the Homework5.cs file
 10/14/24
 Upload the Homework6.cs file
+10/21/24
+Upload the Homework7.cs file
